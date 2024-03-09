@@ -1,3 +1,5 @@
+FINANCE RISK ANALYSIS
+
 This project aims to leverage Exploratory Data Analysis (EDA)
 and machine learning to conduct risk analysis for loan default
 prediction in the context of a consumer finance company. By
